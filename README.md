@@ -1,7 +1,5 @@
 # ranking-engajamento-politicos
 
-Favor ver a aba Wiki para mais detalhes sobre o projeto.
-
 Considere consultar a Wiki na aba ao lado.
 
 ## Objetivo
